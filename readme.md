@@ -12,7 +12,7 @@ Output voltage and current programmable through resistors.
 * Li-Ion:  4.05 V, 4.1 V, 4.2 V, 4.35 V, 4.4 V
 * Na-ion (Sodium)
 
-![img.png](img.web)
+![img.png](img.webp)
 
 
 ```
